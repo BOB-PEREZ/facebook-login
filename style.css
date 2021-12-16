@@ -1,0 +1,98 @@
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    left: 5%;
+    color: blue;
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+.connect{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    font-size: large;
+    margin-top: 25%;
+    margin-left: 11%;
+
+}
+
+.fb{
+    position: absolute;
+    top: 30vh;
+    left: 20vh;
+    
+}
+.form1{
+    position: absolute;
+    top: 30vh;
+    left: 65%;
+}
+form{
+    font-size: x-large;
+    padding-top: 10px;
+    padding-bottom: 13px;
+    padding-left: 2vh;
+    padding-right: 10px;
+    color: rgb(124, 120, 120);
+    border-radius: 4px;
+    border: rgb(241, 14, 82);
+    background-color: rgb(255, 255, 255);
+    width: 50vh;
+}
+.forg{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    color: blue;
+    cursor: pointer;
+    margin-left: 28%;
+
+}
+
+ input[type="text"]{
+   width: 97%;
+   height: 30px;
+  
+    }
+
+input[type="password"]{
+        width: 97%;
+        height: 30px;
+        margin-top: 2%;
+         }   
+ 
+
+.butt1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    width: 100%;
+    margin-top: 2%;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-left: 2vh;
+    padding-right: 2vh;
+    background-color: rgb(8, 4, 252);
+    border: none;
+    border-radius: 4px;
+}
+.butt2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-left: 2vh;
+    padding-right: 2vh;
+    background-color: rgb(4, 158, 30);
+    border: none;
+    border-radius: 4px;
+    margin-top: 3%;
+    margin-left: 25%;
+}
+
+.para{
+    font-weight: lighter;
+    position: absolute;
+    left: 132vh;
+    top: 65vh;
+}
